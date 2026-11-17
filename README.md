@@ -45,10 +45,10 @@ I first used the Windows ipconfig command to identify my local IP address and LA
 
 The example results provided in the practical identified four live hosts:
 
-10.0.0.1
-10.0.0.4
-10.0.0.19
-10.0.0.5
+192.168.1.10<br>
+192.168.1.25<br>
+192.168.1.50<br>
+192.168.1.100
 The example results also included four MAC addresses.
 
 After completing the scan, I opened the Topology section in Zenmap, enabled the legend and saved the network topology in PDF format as required by the practical task.
@@ -117,10 +117,10 @@ I also learned that technical findings should be documented clearly. A good cybe
 
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 ## 8. Evidences Collected
-!(https://github.com/outalebfatima338-web/PENETRATION-TESTING-REPORT/blob/main/Screenshot_2026-11-12_11_40_28.png)
-!()
-!()
-!()
+![](https://github.com/outalebfatima338-web/PENETRATION-TESTING-REPORT/blob/main/Screenshot_2026-11-12_11_40_28.png)
+![](https://github.com/outalebfatima338-web/PENETRATION-TESTING-REPORT/blob/main/Screenshot_2026-11-12_12_25_12.png?raw=true)
+![](https://github.com/outalebfatima338-web/PENETRATION-TESTING-REPORT/blob/main/Screenshot_2026-11-12_12_25_12.png?raw=true)
+![]( https://github.com/outalebfatima338-web/PENETRATION-TESTING-REPORT/blob/main/Screenshot_2026-11-12_12_20_09.png?raw=true)
 
 
 
