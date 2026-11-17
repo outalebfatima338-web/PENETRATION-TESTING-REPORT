@@ -117,7 +117,7 @@ I also learned that technical findings should be documented clearly. A good cybe
 
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 ## 8. Evidences Collected
-!()
+!(https://github.com/outalebfatima338-web/PENETRATION-TESTING-REPORT/blob/main/Screenshot_2026-11-12_11_40_28.png)
 !()
 !()
 !()
